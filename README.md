@@ -48,9 +48,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/SamuelTakyiBoateng/hello-world.git)
+- [Live Demo Link](coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,32 +73,21 @@ Install this project with: visual studio code
 ### Usage
 
 To run the project, execute the following command:
+npm start
 
 ### Run tests
-
 To run tests, run the following command:
-
-### Deployment
-
-You can deploy this project using:
+npm test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Samuel T. Boateng**
 
 - GitHub: [@samueltakyiboateng](https://github.com/samueltakyiboateng)
-- Twitter: [@radaah11](https://twitter.com/twitterhandle)
-- LinkedIn: [Samuel Boateng](https://linkedin.com/in/linkedinhandle@samueltakyiboateng)
-
+- Twitter: @Radaah1
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[nav_bar]**
 - [ ] **[flexbox]**
@@ -117,8 +104,6 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project, kindly modify or comment where necessary
 
@@ -137,3 +122,8 @@ I would like to thank Microverse
 This project is [Microverse](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+
