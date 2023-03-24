@@ -73,11 +73,12 @@ Install this project with: visual studio code
 ### Usage
 
 To run the project, execute the following command:
-npm start
+open the index.html file with your browser
 
 ### Run tests
 To run tests, run the following command:
-npm test
+Webhint: npx hint .
+Stylelint: npx stylelint "**/*.{css,scss}" 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +120,7 @@ I would like to thank Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [Microverse](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
